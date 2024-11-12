@@ -32,6 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <link rel="stylesheet" href="estilo.css"> 
 </head>
 <body>
+    
     <div class="container">
         <img src="imagenes\inae4.gif" alt="Logo" class="logo"> 
         <h2>Iniciar Sesión</h2>
