@@ -55,6 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['iniciar_compra'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/images/Fastify_dark.svg">
     <title><?php echo htmlspecialchars($producto['nombre']); ?></title>
     <link rel="stylesheet" href="detalle.css">
 </head>
